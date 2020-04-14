@@ -5,7 +5,7 @@ void main()
 {
     int a=5;
     int b=6;
-    // Check if a if even or not
+    // Check if a is even or not
     // if true
     if( a % 2 == 0)
     {
